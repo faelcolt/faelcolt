@@ -1,8 +1,4 @@
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  ![Faelcolt GitHub stats](https://github-readme-stats.vercel.app/api?username=faelcolt&show_icons=true&theme=dark)
-
 ###  HEY! IT'S ME, RAFA! 🖖
-
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519989853749)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faelcolt/)
 [![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8x_b8sM_oNsIyD3Mlno2Dg?sub_confirmation=1)
@@ -19,7 +15,8 @@
 [![TIKTOK](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@faelcolt)
 [![SLACK](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/formatr2/shared_invite/zt-16gq5tmcn-cWj7CCaNJsTUuk72GJdV2g)
 [![REDDIT](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/LawNo2827)
-
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Faelcolt GitHub stats](https://github-readme-stats.vercel.app/api?username=faelcolt&show_icons=true&theme=dark)
 ### MY SKILLS:
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
