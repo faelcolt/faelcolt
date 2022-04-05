@@ -1,3 +1,5 @@
+![Faelcolt GitHub stats](https://github-readme-stats.vercel.app/api?username=faelcolt&show_icons=true&theme=highcontrast)
+
 ###  HEY! IT'S ME, RAFA! 🖖
 
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519989853749)
@@ -16,8 +18,6 @@
 [![TIKTOK](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@faelcolt)
 [![SLACK](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/formatr2/shared_invite/zt-16gq5tmcn-cWj7CCaNJsTUuk72GJdV2g)
 [![REDDIT](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/LawNo2827)
-
-![Faelcolt GitHub stats](https://github-readme-stats.vercel.app/api?username=faelcolt&show_icons=true&theme=highcontrast)
 
 ### MY SKILLS:
 
