@@ -11,7 +11,7 @@
 [![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@faelcolt) 
 [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/395355926464561152/451425965663453194)
 [![SPOTIFY](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0pC78j4QU6ULvhxapRLq9l?si=12702df47b7b422e)
-[![TWITCH](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=)](https://www.twitch.tv/faelcolt)
+[![TWITCH](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/faelcolt)
 [![TIKTOK](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@faelcolt)
 [![SLACK](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/formatr2/shared_invite/zt-16gq5tmcn-cWj7CCaNJsTUuk72GJdV2g)
 [![REDDIT](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/LawNo2827)
