@@ -1,4 +1,4 @@
-![Faelcolt GitHub stats](https://github-readme-stats.vercel.app/api?username=faelcolt&show_icons=true&theme=highcontrast)
+![Faelcolt GitHub stats](https://github-readme-stats.vercel.app/api?username=faelcolt&show_icons=true&theme=dark)
 
 ###  HEY! IT'S ME, RAFA! 🖖
 
