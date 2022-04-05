@@ -15,7 +15,6 @@
 [![TIKTOK](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@faelcolt)
 [![SLACK](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/formatr2/shared_invite/zt-16gq5tmcn-cWj7CCaNJsTUuk72GJdV2g)
 [![REDDIT](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/LawNo2827)
-  ![Faelcolt GitHub stats](https://github-readme-stats.vercel.app/api?username=faelcolt&show_icons=true&theme=dark)
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 ### MY SKILLS:
 <div style="display: inline_block"><br/>
