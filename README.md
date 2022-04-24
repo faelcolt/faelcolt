@@ -1,4 +1,4 @@
-Hi 👋 My name is RAFA
+Hey! 👋 It's me, RAFA!
 =====================
 
 https://linktr.ee/faelcolt
