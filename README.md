@@ -3,7 +3,7 @@ Hi 👋 My name is RAFA
 
 I'm a BackEnd Developer
 -----------------------
-
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 * ✉️  You can contact me at [https://wa.me/5519989853749](mailto:https://wa.me/5519989853749)
 * ⚡  "Though my eyes could see, I still was a blind man. Though my mind could think, I still was a mad man."
 
