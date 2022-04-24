@@ -5,7 +5,6 @@ Working with systems analysis and development since 2015
 -----------------------
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 * ✉️  You can contact me at [https://wa.me/5519989853749](mailto:https://wa.me/5519989853749)
-* ⚡  "Though my eyes could see, I still was a blind man. Though my mind could think, I still was a mad man."
 
 <a href="https://www.twitter.com/faelcolt" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/faelcolt?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
